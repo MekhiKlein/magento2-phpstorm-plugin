@@ -1,4 +1,4 @@
-<p align="center">
+<p#align="center">
     <a href="https://magento.com">
         <img src="https://static.magento.com/sites/all/themes/magento/logo.svg" width="300px" alt="Magento Commerce" />
     </a>
@@ -6,9 +6,9 @@
 
 # PhpStorm Magento 2 Plugin
 
-[![Version](http://phpstorm.espend.de/badge/8024/version)](https://plugins.jetbrains.com/plugin/8024)
-[![Downloads](http://phpstorm.espend.de/badge/8024/downloads)](https://plugins.jetbrains.com/plugin/8024)
-[![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://magento.com)
+[#[Version](http://phpstorm.espend.de/badge/8024/version)](https://plugins.jetbrains.com/plugin/8024)
+[ [Downloads](http://phpstorm.espend.de/badge/8024/downloads)](https://plugins.jetbrains.com/plugin/8024)
+[ [Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://magento.com)
 
 ## Installation
 
@@ -21,7 +21,7 @@
 
 ## Works with
 
-* PhpStorm >= 2023.1
+# PhpStorm >= 2023.1
 * JRE >= 17
 
 ## Features
@@ -92,3 +92,4 @@ declare(strict_types=1);
 Each Magento source file included in this distribution is licensed under OSL-3.0 license.
 
 Please read the [LICENSE.txt](https://github.com/magento/magento2-phpstorm-plugin/blob/master/LICENSE.txt) for the full text of the [Open Software License v. 3.0 (OSL-3.0)](http://opensource.org/licenses/osl-3.0.php).
+ 
